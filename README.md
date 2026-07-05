@@ -1,3 +1,5 @@
+<img src="assets/cover.png" alt="Artem Daniliants — ship &gt; talk" width="100%" />
+
 ## Artem Daniliants
 
 **Serial entrepreneur, technologist, AI practitioner.** Based in Tallinn.
