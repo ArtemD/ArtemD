@@ -1,12 +1,14 @@
-<img src="assets/cover.png" alt="Artem Daniliants — ship &gt; talk" width="100%" />
+## Loimi Systems · Business transformation
 
-## Artem Daniliants
+I'm Artem. I run [Loimi Systems](https://loimi.systems), helping companies change how they work.
 
-**Serial entrepreneur, technologist, AI practitioner.** Based in Tallinn.
+We redesign processes, automate routine work and make company knowledge usable. We help teams put AI into everyday practice. From the first audit through implementation, we stay involved until the team can keep it going.
 
-I build companies, self-host my own infrastructure, and write about the tools and strategies that actually work - the ones that survive contact with reality, not just the demo.
+I also invest in and run startups. Based in Tallinn, Estonia.
 
-### Featured project
+[More about our work at loimi.systems](https://loimi.systems)
+
+### Open-source tools
 
 [agent-fileserver](https://github.com/ArtemD/agent-fileserver) lets AI agents publish static websites, prototypes, PDFs and files to your own server, then return a link you can share.
 
@@ -14,11 +16,4 @@ Built with AI coding agents. Written in Go, runs with Docker Compose, and MIT li
 
 [Get started](https://github.com/ArtemD/agent-fileserver#1-install) · [Releases](https://github.com/ArtemD/agent-fileserver/releases)
 
-### More about me
-
-- **Daniliants Ventures** - international growth marketing for ecommerce, B2B and startups (founder, since 2010)
-- **Practical AI** - I write and make videos on what actually ships, what burns money, and what's worth self-hosting
-- **[Artem's Lab](https://github.com/ArtemD/artems-lab)** - the LLM prompts and small tools I clean up and share
-- **More at [daniliants.com](https://daniliants.com)**
-
-No hype, no demo magic. If it doesn't work in the real world, it doesn't ship. :)
+[Artem's Lab](https://github.com/ArtemD/artems-lab) has more prompts and small tools. Personal writing at [daniliants.com](https://daniliants.com).
